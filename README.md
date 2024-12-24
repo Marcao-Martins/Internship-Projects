@@ -1,2 +1,4 @@
-# Internship-Projects
-Two Python projects focused on data analysis that I developed during my internship.
+# Research Projects
+-Python scripts for data analysis
+-NPL processing of the DANTEStocks
+-Automatic LaTeX Statistical Report
