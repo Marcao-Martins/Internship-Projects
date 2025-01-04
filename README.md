@@ -9,8 +9,11 @@ A comprehensive toolkit for processing, analyzing, and managing CONLLU files, fe
 While these tools were originally developed to process and analyze the DANTEStocks corpus - a Brazilian Portuguese financial market corpus annotated with Universal Dependencies - they are designed to work with any properly formatted CONLLU files. The toolkit's flexibility and robust error handling make it suitable for processing and analyzing any linguistic corpus that follows the CONLLU format specifications.
 
 
-## Acknowledgements
-This work was carried out at the Center for Artificial Intelligence of the University of São Paulo (C4AI - c4ai.inova.usp.br), with support by the São Paulo Research Foundation (FAPESP grant #2019/07665-4) and by the IBM Corporation. The project was also supported by the Ministry of Science, Technology, and Innovation, with resources of Law N. 8.248, of October 23, 1991, within the scope of PPI-SOFTEX, coordinated by Softex and published as Residence in TIC 13, DOU 01245.010222/2022-44.
+## Acknowledgements 🎓
+This research was conducted at the Center for Artificial Intelligence of the University of São Paulo (C4AI - c4ai.inova.usp.br), supported by:
+-The São Paulo Research Foundation (FAPESP)
+-The IBM Corporation
+-The Ministry of Science, Technology, and Innovation (through Law N. 8.248 of October 23, 1991)
 
 ## Components 🔧
 
